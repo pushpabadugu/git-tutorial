@@ -7,3 +7,4 @@
 3. push
 4. pull
 5. status
+6. test
